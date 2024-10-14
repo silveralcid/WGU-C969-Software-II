@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
 
-<h3 align="center">Software I - C#</h3>
+<h3 align="center">Software II - Advanced C#</h3>
 
   <p align="center">
-    Course C968 - Western Governer's University
+    Course C969 - Western Governer's University
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
@@ -18,6 +18,7 @@
 ### Built With
 
 * .NET
+* WPF
 
 
 ## Course Information
@@ -26,30 +27,42 @@ Software II - Advanced C# refines object-oriented programming expertise and buil
 
 ### Competencies
 
-**Classes and Interfaces**
+**Database and File Server Applications**
 
-The graduate designs software solutions with appropriate classes, objects, methods, and interfaces to achieve specific goals.
+The graduate produces database and file server applications using advanced constructs in a high-level programming language to meet business requirements.
 
-**Object-Oriented Principles**
+**Lambda**
 
-The graduate implements object-oriented design principles (e.g., inheritance, encapsulation, and abstraction) in developing applications for ensuring the application's scalability.
+The graduate incorporates lambda expressions in application development to meet business requirements more efficiently.
 
-**Application Development**
+**Collections**
 
-The graduate produces applications using high-level programming language constructs to meet business requirements.
+The graduate incorporates nongeneric collections and generic collections in application development to manipulate data more efficiently.
 
-**Exception Handling**
-The graduate incorporates simple exception handling in application development for improving user experience and application stability.
+**Localization and Globalization**
 
-**User Interface Development**
-The graduate develops user interfaces to meet project requirements.
+The graduate applies application programming interfaces (APIs) in application development to support end users in various geographic regions.
+
+**Advanced Exception Control**
+
+The graduate incorporates advanced exception control mechanisms in application development for improving user experience and application stability.
 
 ### Scenario
 
-You are working for a small manufacturing organization that has outgrown its current inventory system. They have been using a spreadsheet program to manually enter inventory additions, deletions, and other data from a paper-based system but would now like you to develop a more sophisticated inventory program.
+You are working for a software company that has been contracted to develop a scheduling desktop user interface application. The contract is with a global consulting organization that conducts business in multiple languages and has main offices in the following locations: Phoenix, Arizona; New York, New York; and London, England. The consulting organization has provided a MySQL database that your C# application must pull data from. However, this database is used for other systems, so its structure cannot be modified.
 
-They have provided you with a mock-up of the user interface to use in the design and development of the system (see the attached "GUI Mock-Up") and a class diagram to assist you in your work (see the attached "UML Class Diagram"). The organization also has specific business requirements that must be included as part of the application. A system analyst from your company created the solution statements outlined in the requirements section based on the manufacturing organization's business requirements. You will use these solution statements to develop your application.
+The organization has outlined specific business requirements that must be included as part of the application. From these requirements, a system analyst at your company created solution statements for you to implement when developing the application.
 
+### Requirements
+
+* Create a login form that determines a user's location and translates to the localized language
+* Provide the ability to add, update, and delete customer records with validation
+* Add exception handling that can be used when performing each of the operations for customer records
+* Provide the ability to add, update, and delete appointments, capture the type of appointment, and link to a specific customer record in the database
+* Create a calendar view feature, including the ability to view appointments on a specific day by selecting a day of the month from a calendar of the months of the year
+* Provide the ability to automatically adjust appointment times based on user time zones and daylight saving time
+* Create a function that allows users to generate the three reports listed using collection classes, incorporating a lambda expression into the code
+* Record the timestamp and the username of each login in a text file named “Login_History.txt,” ensuring that each new record is appended to the log file
 
 
 <!-- CONTACT -->
