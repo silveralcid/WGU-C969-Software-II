@@ -22,7 +22,7 @@
 
 ## Course Information
 
-Software I - C# builds object-oriented programming expertise and introduces powerful new tools for C# application development. You will learn about and put into action: class design, exception handling, and other object-oriented principles and constructs to develop software that meets business requirements. This course requires foundational knowledge of object-oriented programming.
+Software II - Advanced C# refines object-oriented programming expertise and builds database and file server application development skills. You will learn about and put into action lambda expressions, collections, and input/output to develop software with C# that meets business requirements. This course requires intermediate expertise in object-oriented programming and the C# language. The prerequisite for this course is Software I - C#.
 
 ### Competencies
 
