@@ -1,0 +1,156 @@
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\AMS.UI.exe.config
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\AMS.UI.exe
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\AMS.UI.pdb
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.csproj.AssemblyReference.cache
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Properties.Resources.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.csproj.GenerateResource.cache
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.csproj.CoreCompileInputs.cache
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.exe
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.pdb
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Login.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\MySql.Data.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\Google.Protobuf.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\ZstdSharp.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\BouncyCastle.Cryptography.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Memory.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Buffers.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\K4os.Compression.LZ4.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.IO.Pipelines.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\K4os.Hash.xxHash.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Numerics.Vectors.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\MySql.Data.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\Google.Protobuf.pdb
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\Google.Protobuf.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\BouncyCastle.Cryptography.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Memory.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Buffers.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\K4os.Compression.LZ4.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.IO.Pipelines.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\K4os.Hash.xxHash.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Numerics.Vectors.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Languages.en.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Languages.fr.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Menu.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Customers.View.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Customers.CreateUpdateForm.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.csproj.Up2Date
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Apointments.View.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Appointments.CreateUpdateForm.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Reports.Menu.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Reports.ByTypes.resources
+E:\My Work\Freelance\gustavo9697\Src\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Reports.ByLocations.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\AMS.UI.exe.config
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\AMS.UI.exe
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\AMS.UI.pdb
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\BouncyCastle.Cryptography.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\Google.Protobuf.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\K4os.Compression.LZ4.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\K4os.Hash.xxHash.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\MySql.Data.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Buffers.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.IO.Pipelines.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Memory.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Numerics.Vectors.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\ZstdSharp.dll
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\BouncyCastle.Cryptography.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\Google.Protobuf.pdb
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\Google.Protobuf.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\K4os.Compression.LZ4.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\K4os.Hash.xxHash.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\MySql.Data.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Buffers.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.IO.Pipelines.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Memory.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Numerics.Vectors.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.csproj.AssemblyReference.cache
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Appointments.CreateUpdateForm.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Apointments.View.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Customers.CreateUpdateForm.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Customers.View.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Login.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Menu.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Reports.ByLocations.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Reports.ByTypes.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Forms.Reports.Menu.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Languages.en.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Languages.fr.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.Properties.Resources.resources
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.csproj.GenerateResource.cache
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.csproj.CoreCompileInputs.cache
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.csproj.Up2Date
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.exe
+E:\My Work\Freelance\waifuavenue\Appointments Management System\AMS.UI\obj\Debug\AMS.UI.pdb
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\AMS.UI.exe.config
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\AMS.UI.exe
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\AMS.UI.pdb
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\BouncyCastle.Cryptography.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\Google.Protobuf.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\K4os.Compression.LZ4.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\K4os.Hash.xxHash.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\MySql.Data.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Buffers.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Configuration.ConfigurationManager.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.IO.Pipelines.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Memory.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Numerics.Vectors.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\ZstdSharp.dll
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\BouncyCastle.Cryptography.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\Google.Protobuf.pdb
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\Google.Protobuf.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\K4os.Compression.LZ4.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\K4os.Hash.xxHash.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\MySql.Data.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Buffers.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.IO.Pipelines.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Memory.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Numerics.Vectors.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.csproj.AssemblyReference.cache
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Forms.Appointments.CreateUpdateForm.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Forms.Apointments.View.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Forms.Customers.CreateUpdateForm.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Forms.Customers.View.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Login.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Forms.Menu.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Forms.Reports.ByLocations.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Forms.Reports.ByTypes.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Forms.Reports.Menu.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Languages.en.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Languages.fr.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.Properties.Resources.resources
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.csproj.GenerateResource.cache
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.csproj.CoreCompileInputs.cache
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.csproj.Up2Date
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.exe
+A:\project-sync\github\WGU-C969-Software-II\AMS.UI\obj\Debug\AMS.UI.pdb

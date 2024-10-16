@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\project-sync\\github\\WGU-C969-Software-II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31048C44-8289-4474-BF67-CF7C752F1C0E}|AMS.UI\\AMS.UI.csproj|a:\\project-sync\\github\\wgu-c969-software-ii\\ams.ui\\infra\\mysqlrepo\\mysqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31048C44-8289-4474-BF67-CF7C752F1C0E}|AMS.UI\\AMS.UI.csproj|solutionrelative:ams.ui\\infra\\mysqlrepo\\mysqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31048C44-8289-4474-BF67-CF7C752F1C0E}|AMS.UI\\AMS.UI.csproj|A:\\project-sync\\github\\WGU-C969-Software-II\\ams.ui\\forms\\apointments\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31048C44-8289-4474-BF67-CF7C752F1C0E}|AMS.UI\\AMS.UI.csproj|solutionrelative:ams.ui\\forms\\apointments\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MySqlClient.cs",
+              "DocumentMoniker": "A:\\project-sync\\github\\WGU-C969-Software-II\\AMS.UI\\Infra\\MySQLRepo\\MySqlClient.cs",
+              "RelativeDocumentMoniker": "AMS.UI\\Infra\\MySQLRepo\\MySqlClient.cs",
+              "ToolTip": "A:\\project-sync\\github\\WGU-C969-Software-II\\AMS.UI\\Infra\\MySQLRepo\\MySqlClient.cs",
+              "RelativeToolTip": "AMS.UI\\Infra\\MySQLRepo\\MySqlClient.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADgv0EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:06:18.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cs",
+              "DocumentMoniker": "A:\\project-sync\\github\\WGU-C969-Software-II\\AMS.UI\\Forms\\Apointments\\View.cs",
+              "RelativeDocumentMoniker": "AMS.UI\\Forms\\Apointments\\View.cs",
+              "ToolTip": "A:\\project-sync\\github\\WGU-C969-Software-II\\AMS.UI\\Forms\\Apointments\\View.cs",
+              "RelativeToolTip": "AMS.UI\\Forms\\Apointments\\View.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:50:45.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
