@@ -3,7 +3,7 @@
 <h3 align="center">Software II - Advanced C#</h3>
 
   <p align="center">
-    Course C969 - Western Governer's University
+    Course C969 - Appointment Management System
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
