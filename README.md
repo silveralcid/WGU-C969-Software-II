@@ -6,7 +6,7 @@
     Course C969 - Appointment Management System
     <br />
     <br />
-    <a href="https://github.com/silveralcid/WGU-C968-Software-I">View Demo</a>
+    <a href="https://github.com/silveralcid/WGU-C969-Software-II">View Demo</a>
 </div>
 
 
